@@ -1,3 +1,5 @@
+> **FROZEN (2026-07-11):** This repository is read-only history. All active work lives in [`Canzeco/mesita-monorepo`](https://github.com/Canzeco/mesita-monorepo) — never a work target. See monorepo packages under `apps/` and `supabase/`.
+
 # mesita-web-business
 
 Business console for Mesita place owners and team members — lives at
